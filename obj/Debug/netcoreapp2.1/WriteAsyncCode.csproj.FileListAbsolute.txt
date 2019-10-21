@@ -1,0 +1,11 @@
+C:\Users\jamyers\source\repos\WriteAssyncCode\bin\Debug\netcoreapp2.1\WriteAsyncCode.deps.json
+C:\Users\jamyers\source\repos\WriteAssyncCode\bin\Debug\netcoreapp2.1\WriteAsyncCode.runtimeconfig.json
+C:\Users\jamyers\source\repos\WriteAssyncCode\bin\Debug\netcoreapp2.1\WriteAsyncCode.runtimeconfig.dev.json
+C:\Users\jamyers\source\repos\WriteAssyncCode\bin\Debug\netcoreapp2.1\WriteAsyncCode.dll
+C:\Users\jamyers\source\repos\WriteAssyncCode\bin\Debug\netcoreapp2.1\WriteAsyncCode.pdb
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.csproj.CoreCompileInputs.cache
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.AssemblyInfoInputs.cache
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.AssemblyInfo.cs
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.dll
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.pdb
+C:\Users\jamyers\source\repos\WriteAssyncCode\obj\Debug\netcoreapp2.1\WriteAsyncCode.csprojAssemblyReference.cache
